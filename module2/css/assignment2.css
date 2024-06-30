@@ -27,6 +27,7 @@ h2 {
     border-bottom: 1px solid black;
     margin-block-end : 10px;
     margin-left: 5px;
+    overflow: scroll;
 }
 
 
@@ -35,6 +36,7 @@ section {
     border: 1px solid black;
     margin: 5px;
     background-color: lightgrey;
+    overflow: scroll;
 }
 
 p{
