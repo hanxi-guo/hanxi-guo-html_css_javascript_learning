@@ -27,7 +27,7 @@ h2 {
     border-bottom: 1px solid black;
     margin-block-end : 10px;
     margin-left: 5px;
-    overflow: scroll;
+    margin-bottom: 5px;
 }
 
 
@@ -40,7 +40,10 @@ section {
 }
 
 p{
-    margin: 15px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
   }
 
 .def {
