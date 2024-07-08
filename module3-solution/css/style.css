@@ -1,0 +1,92 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #4573A0;
+    font-family: 'Oxygen', sans-serif;
+  }
+  
+  #header-nav {
+    background-color: #75B2E7;
+    border-radius: 0;
+    border: 0;
+    width:100%;
+  }
+
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #EDCC86;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  background-color: #75B2E7;
+}
+
+#nav-list a {
+  /*text-align: center;*/
+  font-weight: bolder;
+  color: #282828;
+  font-size: 1.2em;
+}
+
+#nav-list a:hover {
+  color: #202020;
+  background-color: #EDCC86;
+}
+
+
+.navbar-header button.navbar-toggle:hover, .navbar-header button.navbar-toggle:focus {
+  background-color: #EDCC86;
+}
+.navbar-header button.navbar-toggle:hover .icon-bar, .navbar-header button.navbar-toggle:focus .icon-bar {
+  background-color: #202020;
+}
+
+h1 {
+  color :#EDCC86;
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Existing styles */
+#nav-list {
+  background-color: #75B2E7;
+}
+
+#nav-list a {
+  /*text-align: center;*/
+  font-weight: bolder;
+  color: #282828;
+  font-size: 1.2em;
+}
+
+
+
+
+
+
+h2 {
+  margin-top: 0px;
+}
+
+.row {
+  margin : 5px;
+}
+
+section {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 60px;
+  box-shadow: 0 0 10px lightgray;
+}
+
+
+
