@@ -36,7 +36,7 @@ section {
     border: 1px solid black;
     margin: 5px;
     background-color: lightgrey;
-    overflow: scroll;
+    overflow: auto;
 }
 
 p{
